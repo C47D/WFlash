@@ -1,3 +1,4 @@
-ctags
+tags
+test/*.runner.c
 test/*.o
 test/*.out
